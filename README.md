@@ -1,5 +1,5 @@
 # MyCV
-This repo contain my CV in English. The Farsi(Persian) version will be comitted soon.
+This repo contain my CV in English and Farsi(Persian).
 
 ` If you want to hire me, Please contact me`
 
